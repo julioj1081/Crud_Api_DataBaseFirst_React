@@ -23,6 +23,16 @@ namespace ApiCoreID.Controllers
         [HttpPost("Create")]
         public async Task<ActionResult<bool>> Create([FromBody] Models.Photo model)
         {
+            if (!ModelState.IsValid)
+            {
+                var errores = ModelState.Values.SelectMany(x => x.Errors).Select(x => x.ErrorMessage).ToList();
+                return BadRequest(new
+                {
+                    Error = "campos vacíos o inválidos.",
+                    Detalles = errores
+                });
+            }
+
             var result = await _photosService.InsertFoto(model);
             return result;
         }
@@ -43,6 +53,16 @@ namespace ApiCoreID.Controllers
         [HttpPost("UpdatePhotos")]
         public async Task<ActionResult<bool>> UpdatePhotos([FromBody] Models.Photo model)
         {
+            if (!ModelState.IsValid)
+            {
+                var errores = ModelState.Values.SelectMany(x => x.Errors).Select(x => x.ErrorMessage).ToList();
+                return BadRequest(new
+                {
+                    Error = "campos vacíos o inválidos.",
+                    Detalles = errores
+                });
+            }
+
             var result = await _photosService.UpdatePhotos(model);
             return result;
         }

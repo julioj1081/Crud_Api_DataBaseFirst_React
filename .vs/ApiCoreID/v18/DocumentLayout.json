@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Programas\\ApiCoreID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|c:\\programas\\apicoreid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|c:\\programas\\apicoreid\\controllers\\fotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|solutionrelative:controllers\\fotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|c:\\programas\\apicoreid\\services\\photosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|solutionrelative:services\\photosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|c:\\programas\\apicoreid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|c:\\programas\\apicoreid\\models\\fotoscrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|solutionrelative:models\\fotoscrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|c:\\programas\\apicoreid\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "FotosCrudContext.cs",
+              "DocumentMoniker": "C:\\Programas\\ApiCoreID\\Models\\FotosCrudContext.cs",
+              "RelativeDocumentMoniker": "Models\\FotosCrudContext.cs",
+              "ToolTip": "C:\\Programas\\ApiCoreID\\Models\\FotosCrudContext.cs",
+              "RelativeToolTip": "Models\\FotosCrudContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T19:43:37.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programas\\ApiCoreID\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Programas\\ApiCoreID\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-13T19:33:04.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programas\\ApiCoreID\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Programas\\ApiCoreID\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-13T18:42:24.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PhotosServices.cs",
               "DocumentMoniker": "C:\\Programas\\ApiCoreID\\Services\\PhotosServices.cs",
               "RelativeDocumentMoniker": "Services\\PhotosServices.cs",
               "ToolTip": "C:\\Programas\\ApiCoreID\\Services\\PhotosServices.cs",
               "RelativeToolTip": "Services\\PhotosServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwD0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T18:06:52.356Z"
+              "WhenOpened": "2026-07-13T18:06:52.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FotoController.cs",
               "DocumentMoniker": "C:\\Programas\\ApiCoreID\\Controllers\\FotoController.cs",
               "RelativeDocumentMoniker": "Controllers\\FotoController.cs",
               "ToolTip": "C:\\Programas\\ApiCoreID\\Controllers\\FotoController.cs",
               "RelativeToolTip": "Controllers\\FotoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T18:05:45.641Z"
+              "WhenOpened": "2026-07-13T18:05:45.641Z",
+              "EditorCaption": ""
             }
           ]
         }
