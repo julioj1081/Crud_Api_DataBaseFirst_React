@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas\\ApiCoreID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|c:\\programas\\apicoreid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|c:\\programas\\apicoreid\\controllers\\fotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|solutionrelative:controllers\\fotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|c:\\programas\\apicoreid\\services\\photosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133D4A93-9E00-4E3A-B827-141757A6C70C}|ApiCoreID.csproj|solutionrelative:services\\photosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas\\ApiCoreID\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Programas\\ApiCoreID\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T18:42:24.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhotosServices.cs",
+              "DocumentMoniker": "C:\\Programas\\ApiCoreID\\Services\\PhotosServices.cs",
+              "RelativeDocumentMoniker": "Services\\PhotosServices.cs",
+              "ToolTip": "C:\\Programas\\ApiCoreID\\Services\\PhotosServices.cs",
+              "RelativeToolTip": "Services\\PhotosServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T18:06:52.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FotoController.cs",
+              "DocumentMoniker": "C:\\Programas\\ApiCoreID\\Controllers\\FotoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FotoController.cs",
+              "ToolTip": "C:\\Programas\\ApiCoreID\\Controllers\\FotoController.cs",
+              "RelativeToolTip": "Controllers\\FotoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T18:05:45.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
